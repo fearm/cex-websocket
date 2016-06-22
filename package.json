@@ -1,6 +1,6 @@
 {
   "name": "cex-websocket",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "CEX.io Websocket implementation in NodeJS",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "url": "https://github.com/Erowlin/cex-websocket/issues"
   },
   "homepage": "https://github.com/Erowlin/cex-websocket#readme",
-  "dependencies" : {
+  "dependencies": {
     "websocket": "1.0.23"
   }
 }
